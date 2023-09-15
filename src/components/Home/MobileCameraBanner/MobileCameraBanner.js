@@ -6,7 +6,7 @@ const MobileCameraBanner = () => {
       <div className="hero min-h-screen bg-white">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
-            data-aos="fade-left"
+            data-aos="fade-zoom-in-up"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
             data-aos-duration="3000"

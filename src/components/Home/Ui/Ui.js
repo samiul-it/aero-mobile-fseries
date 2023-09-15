@@ -12,7 +12,7 @@ const Ui = () => {
             data-aos-duration="3000"
             alt=""
             src="https://assets.materialup.com/uploads/c9743fe2-c218-4020-9034-ff1e27636537/preview.jpg"
-            className="lg:max-w-3xl  "
+            className="lg:max-w-2xl  "
           />
           <div>
             <h1

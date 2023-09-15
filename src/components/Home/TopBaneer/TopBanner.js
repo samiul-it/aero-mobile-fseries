@@ -6,7 +6,7 @@ const TopBanner = () => {
       <div className="hero min-h-screen bg-white">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
-            data-aos="fade-left"
+            data-aos="fade-up"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
             data-aos-duration="3000"
@@ -20,7 +20,7 @@ const TopBanner = () => {
               data-aos-duration="3000"
               className="text-4xl text-slate-600 font-bold"
             >
-             brand new{" "}
+              brand new{" "}
               <span className="text-6xl text-lime-600 font-bold "> AERO</span>
             </h1>
             <p data-aos="fade-right" data-aos-duration="3000" className="py-6">

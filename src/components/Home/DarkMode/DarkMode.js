@@ -31,9 +31,8 @@ const DarkMode = () => {
             </button>
           </div>
           <img
-            data-aos="fade-left"
-            data-aos-offset="300"
-            data-aos-easing="ease-in-sine"
+            data-aos="fade-down"
+            data-aos-easing="linear"
             data-aos-duration="3000"
             alt=""
             src="https://waltonbd.com/micro-site/zx4/images/zx4/zx4-feature-Special2-2.webp"

@@ -6,7 +6,7 @@ const DesignBanner = () => {
       <div className="hero min-h-screen bg-[#e6e6e6]">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
-            data-aos="fade-left"
+            data-aos="fade-down"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
             data-aos-duration="3000"
