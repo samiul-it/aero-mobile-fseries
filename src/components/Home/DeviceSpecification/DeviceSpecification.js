@@ -23,7 +23,7 @@ const DeviceSpecification = () => {
       <h1
         data-aos="fade-up"
         data-aos-duration="3000"
-        className="text-3xl lg:text-8xl text-slate-600 font-bold text-center  mt-10"
+        className="text-3xl lg:text-8xl text-slate-600 font-bold text-center  "
       >
         gaming powered by{" "}
         <span className="text-5xl lg:text-9xl text-lime-600 font-bold ">
@@ -32,13 +32,13 @@ const DeviceSpecification = () => {
         </span>
       </h1>
 
-      <div className="hero min-h-screen ">
+      <div className="hero min-h-fit ">
         <div className="hero-content text-center text-neutral-content">
           <div
             data-aos="fade-right"
             data-aos-offset="350"
             data-aos-easing="ease-in-sine"
-            className="grid lg:grid-cols-3 gap-4 lg:gap-5"
+            className="grid lg:grid-cols-3 gap-4 lg:gap-5 mt-10 mb-10"
           >
             {technologies?.map((technology, index) => (
               <div

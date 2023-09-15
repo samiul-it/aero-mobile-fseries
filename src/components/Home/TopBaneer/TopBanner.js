@@ -12,7 +12,7 @@ const TopBanner = () => {
             data-aos-duration="3000"
             alt=""
             src="https://i.ibb.co/0JgSvXd/vecteezy-realistic-3d-black-smartphone-isometric-mockup-isolated-on-11491090.jpg"
-            className="lg:max-w-2xl  "
+            className="lg:max-w-2xl mt-5  "
           />
           <div>
             <h1
