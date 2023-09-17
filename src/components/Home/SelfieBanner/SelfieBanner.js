@@ -6,7 +6,7 @@ const SelfieBanner = () => {
       <div
         data-aos="fade-down"
         data-aos-easing="linear"
-        data-aos-duration="3000"
+        data-aos-duration="2000"
         className="hero min-h-screen"
         style={{
           backgroundImage:
@@ -18,7 +18,7 @@ const SelfieBanner = () => {
           <div className="max-w-md">
             <h1
               data-aos="fade-up"
-              data-aos-duration="3000"
+              data-aos-duration="2000"
               className="text-4xl text-slate-600 font-bold"
             >
               the AERO{" "}
@@ -27,7 +27,7 @@ const SelfieBanner = () => {
                 Moments
               </span>
             </h1>
-            <p data-aos="fade-up" data-aos-duration="3000" className="mb-5">
+            <p data-aos="fade-up" data-aos-duration="2000" className="mb-5">
               For the first time, users can take portraits without having to
               switch to Portrait mode. When there’s a person, dog, or cat in the
               frame, or when a user taps to focus, AERO automatically captures
@@ -35,7 +35,7 @@ const SelfieBanner = () => {
             </p>
             <button
               data-aos="fade-down"
-              data-aos-duration="3000"
+              data-aos-duration="2000"
               className="btn bg-amber-600 border-none rounded-none text-white hover:bg-amber-700"
             >
               MORE

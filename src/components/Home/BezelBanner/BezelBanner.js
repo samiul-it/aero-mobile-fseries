@@ -7,7 +7,7 @@ const BezelBanner = () => {
         <div
           data-aos="fade-down"
           data-aos-easing="linear"
-          data-aos-duration="3000"
+          data-aos-duration="2000"
           className="hero min-h-screen"
           style={{
             backgroundImage:
@@ -19,7 +19,7 @@ const BezelBanner = () => {
             <div className="max-w-md">
               <h1
                 data-aos="fade-up"
-                data-aos-duration="3000"
+                data-aos-duration="2000"
                 className="text-4xl text-slate-600 font-bold"
               >
                 the AERO{" "}
@@ -28,7 +28,7 @@ const BezelBanner = () => {
                   Bezel
                 </span>
               </h1>
-              <p data-aos="fade-up" data-aos-duration="3000" className="mb-5">
+              <p data-aos="fade-up" data-aos-duration="2000" className="mb-5">
                 The four-curved screen is of equal depth, round and refined, and
                 comfortable to hold. Equipped with Huawei Imaging™ display
                 technology, it presents real colors with professional color

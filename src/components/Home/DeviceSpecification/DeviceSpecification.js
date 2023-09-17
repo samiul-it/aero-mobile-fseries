@@ -22,7 +22,7 @@ const DeviceSpecification = () => {
     <div>
       <h1
         data-aos="fade-up"
-        data-aos-duration="3000"
+        data-aos-duration="2000"
         className="text-3xl lg:text-8xl text-slate-600 font-bold text-center  "
       >
         gaming powered by{" "}
@@ -49,7 +49,7 @@ const DeviceSpecification = () => {
                   <img
                     className="transition duration-150 ease-in-out hover:scale-110"
                     data-aos="fade-up"
-                    data-aos-duration="3000"
+                    data-aos-duration="2000"
                     src={technology?.image}
                     alt="Shoes"
                   />

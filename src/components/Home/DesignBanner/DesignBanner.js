@@ -9,7 +9,7 @@ const DesignBanner = () => {
             data-aos="fade-down"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
-            data-aos-duration="3000"
+            data-aos-duration="2000"
             alt=""
             src="https://i.ibb.co/L1jvJzD/vecteezy-realistic-3d-black-smartphone-mockup-collection-isolated-on-6687294.jpg"
             className="lg:max-w-2xl  "
@@ -17,13 +17,13 @@ const DesignBanner = () => {
           <div>
             <h1
               data-aos="fade-up"
-              data-aos-duration="3000"
+              data-aos-duration="2000"
               className="text-4xl text-slate-600 font-bold"
             >
               unleash the{" "}
               <span className="text-6xl text-lime-600 font-bold "> AERO</span>
             </h1>
-            <p data-aos="fade-right" data-aos-duration="3000" className="py-6">
+            <p data-aos="fade-right" data-aos-duration="2000" className="py-6">
               The powerful combination of Lingxi AI algorithm and Lingxi antenna
               brings a better communication experience. Achieve more stable
               network connections in weak signal scenarios such as high-speed
@@ -31,7 +31,7 @@ const DesignBanner = () => {
             </p>
             <button
               data-aos="fade-down"
-              data-aos-duration="3000"
+              data-aos-duration="2000"
               className="btn bg-lime-600 border-none rounded-none text-white hover:bg-lime-700"
             >
               See Specification

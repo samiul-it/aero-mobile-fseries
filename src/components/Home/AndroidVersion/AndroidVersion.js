@@ -5,7 +5,7 @@ const AndroidVersion = () => {
     <div>
       <h1
         data-aos="fade-up"
-        data-aos-duration="3000"
+        data-aos-duration="2000"
         className="text-3xl lg:text-8xl text-slate-600 font-bold text-center mb-5  "
       >
         superCharged with{" "}
@@ -18,7 +18,7 @@ const AndroidVersion = () => {
         <div
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="3000"
+          data-aos-duration="2000"
           className="hero min-h-screen"
           style={{
             backgroundImage:

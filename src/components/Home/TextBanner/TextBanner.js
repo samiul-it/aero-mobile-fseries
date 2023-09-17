@@ -9,7 +9,7 @@ const TextBanner = () => {
             <h1
               data-aos="fade-down"
               data-aos-easing="linear"
-              data-aos-duration="3000"
+              data-aos-duration="2000"
               className="lg:text-8xl text-5xl font-bold"
             >
               Rebirth of aesthetics through concerted efforts
@@ -17,7 +17,7 @@ const TextBanner = () => {
             <p
               data-aos="fade-up"
               data-aos-easing="linear"
-              data-aos-duration="3000"
+              data-aos-duration="2000"
               className="py-6 text-2xl font-bold text-lime-600 "
             >
               Always a classic, always innovative. Extreme axial symmetry,

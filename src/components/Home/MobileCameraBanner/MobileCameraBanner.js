@@ -9,7 +9,7 @@ const MobileCameraBanner = () => {
             data-aos="fade-zoom-in-up"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
-            data-aos-duration="3000"
+            data-aos-duration="2000"
             alt=""
             src="https://i.ibb.co/qr5DZSQ/beautiful-girl-stands-near-walll-with-leaves-samsung-galaxys20ultra-cosmicgrey-portrait.png"
             className="lg:max-w-md  "
@@ -17,7 +17,7 @@ const MobileCameraBanner = () => {
           <div>
             <h1
               data-aos="fade-up"
-              data-aos-duration="3000"
+              data-aos-duration="2000"
               className="text-4xl text-slate-600 font-bold"
             >
               the AERO{" "}
@@ -26,7 +26,7 @@ const MobileCameraBanner = () => {
                 Display
               </span>
             </h1>
-            <p data-aos="fade-right" data-aos-duration="3000" className="py-6">
+            <p data-aos="fade-right" data-aos-duration="2000" className="py-6">
               he colors are inspired by the earth's color card, and the colorful
               mountains and rivers are reproduced in the palm of your hand.
               Brocade material, three-dimensional texture, more layered.The
@@ -41,7 +41,7 @@ const MobileCameraBanner = () => {
             </p>
             <button
               data-aos="fade-down"
-              data-aos-duration="3000"
+              data-aos-duration="2000"
               className="btn bg-lime-600 border-none rounded-none text-white hover:bg-lime-700"
             >
               See Specification
